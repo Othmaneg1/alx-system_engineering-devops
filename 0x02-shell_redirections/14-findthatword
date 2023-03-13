@@ -1,0 +1,2 @@
+#!/bin/basah
+grep "root" /etc/passwd
