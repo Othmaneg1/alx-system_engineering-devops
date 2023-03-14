@@ -1,0 +1,2 @@
+#!/bin/bsh
+echo 'obase=16; $DECIMAL' | bc
